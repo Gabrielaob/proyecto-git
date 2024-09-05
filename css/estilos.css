@@ -5,3 +5,12 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 23%, rgba(
 .color-enlace{
     color: white;
 }
+
+.jumbotron{
+    background-image: url("../img/5-TECNOLOGIAS-1280x1280.png");
+    background-size: cover;
+    color: black;
+}
+hr{
+    background-color: black;
+}
